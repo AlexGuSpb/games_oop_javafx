@@ -4,8 +4,6 @@ import org.junit.Test;
 import ru.job4j.chess.firuges.Cell;
 import ru.job4j.chess.firuges.black.BishopBlack;
 
-
-
 public class LogicTest {
 
     public void move()
